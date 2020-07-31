@@ -1,8 +1,14 @@
-
 .AddFolder {
   color: #dedede;
 }
 
 .AddFolder h2 {
   margin-left: 16px;
+}
+
+.Noteful-form {
+  width: 100%;
+}
+input[type="text"] {
+  width: auto;
 }

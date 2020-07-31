@@ -1,8 +1,12 @@
-
 .AddNote {
   color: #dedede;
 }
 
 .AddNote h2 {
   margin-left: 16px;
+}
+
+#note-folder-select,
+#note-content-input {
+  width: auto;
 }
